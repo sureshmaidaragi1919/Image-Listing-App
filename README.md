@@ -2,7 +2,7 @@
 This is the sample application build for Google's event called **#30Day's of Kotlin With Google**
 
 ## How does home screen looks like?
-<img src='device-2020-05-31-124708.png' height=480 width=240 />                          <img src='device-2020-05-31-124732.png' height=480 width=240 />
+<img src='device-2020-06-01-111025.png' height=480 width=240 />                          <img src='device-2020-06-01-111058.png' height=480 width=240 />
 
 
 ## What topics are covered in this app ?
